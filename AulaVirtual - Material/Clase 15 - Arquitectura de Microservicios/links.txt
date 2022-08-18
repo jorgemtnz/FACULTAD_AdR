@@ -1,0 +1,5 @@
+- Microservices - IBM Cloud Team
+https://www.youtube.com/watch?v=CdBtNQZH8a4
+
+- Qué problemas vino a resolver la arquitectura de microservicios, qué nuevos problemas generó y cómo los resolvió
+https://www.youtube.com/watch?v=j3XufmvEMiM

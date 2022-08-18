@@ -1,0 +1,18 @@
+- Referencias: Software Architecture in Practice: Software Architect Practice_c3 (SEI Series in Software Engineering) 3rd Edition. Len Bass, Paul Clements, Rick Kazman.
+
+- The C4 model for visualising software architecture. Context, Containers, Components and Code:
+https://c4model.com/
+
+- https://youtu.be/Tf3eNaB-LGs
+
+- https://youtu.be/x2-rSnhpw0g
+
+- Sitio con cuentas personales gratuitas para elaborar diagramas C4
+https://structurizr.com/pricing
+
+Arquitectura y agilidad
+http://johanachuquino.com/la-agilidad-vision-del-arquitecto-software/
+https://www.linkedin.com/pulse/una-buena-arquitectura-facilita-la-agilidad-gabriel-monreal/
+https://ieeexplore.ieee.org/abstract/document/5420791
+https://www.computer.org/csdl/magazine/so/2009/05/mso2009050002/13rRUxASutt
+
