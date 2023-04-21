@@ -1,0 +1,14 @@
+1a) F. justifique que en microservicios puede seguir funcionando la app si se cae algun servicio, solo que ese no iba a estar funcionando
+1b) F. puse que la definicion es era Transferencia de un riesgo y no aceptacion
+2a) Puse la IV y mostre un ejemplo con un CPI muy chico en donde daba mas del 100%, habia puesto algo como AC = EV/CPI = 1/0,0001
+2b) puse 1 y 3 y esta mal, no se cual era la que iba. JP:la 1 es la que habia que elegir.....
+3) lo que dijimos arriba, puse load balancers redundantes, servers redundantes, cluster de db nosql (tolerancia fallos, escalabilidad horizontal), cache redundante (varnish rapidez contenido estatico) y lo de bloqueo de ip por localizacion (solo arg), no me habian marcado nada, solo un tilde y 1.5/3
+4) puse todas las etapas explicadas hasta con los mecanismos de compra pero me falto un ejemplo de uno 2/3
+
+En la 3 tmb dijo en otro mensaje que le había faltado un CDN y que lo de bloqueo de IP por localización por sí solo sumaba 1 punto
+
+ No encontré ni en las PPT ni en los resumenes que andan dando vueltas info para responder el punto 2b. Alguno sabe en donde buscar?
+ 
+ El equipo de dirección del proyecto es un subgrupo del equipo del proyecto y es responsable de las actividades de liderazgo y dirección del proyecto, tales como iniciar, planificar, ejecutar, monitorear, controlar y cerrar las diversas fases del proyecto. Este grupo puede denominarse también equipo central, equipo ejecutivo o equipo líder. Para proyectos más pequeños, las responsabilidades de la dirección de proyectos pueden ser compartidas por todo el equipo o administradas únicamente por el director del proyecto. El patrocinador del proyecto trabaja con el equipo de dirección del proyecto, colaborando generalmente en asuntos tales como el financiamiento del proyecto, aclarando cuestiones referidas al alcance, monitoreando el avance y ejerciendo influencia sobre otros interesados para beneficio del proyecto.
+ 
+ 
